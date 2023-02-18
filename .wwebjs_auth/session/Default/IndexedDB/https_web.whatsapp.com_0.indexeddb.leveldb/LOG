@@ -1,0 +1,14 @@
+2023/02/18-11:59:43.293 13c03 Reusing MANIFEST /Users/test/Documents/ISCOD/whatsupbot/openai-wa/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/02/18-11:59:43.294 13c03 Recovering log #30
+2023/02/18-11:59:43.323 13c03 Reusing old log /Users/test/Documents/ISCOD/whatsupbot/openai-wa/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000030.log 
+2023/02/18-12:02:06.076 8103 Level-0 table #36: started
+2023/02/18-12:02:06.121 8103 Level-0 table #36: 1384935 bytes OK
+2023/02/18-12:02:06.162 8103 Delete type=0 #30
+2023/02/18-12:02:06.167 8103 Compacting 1@1 + 2@2 files
+2023/02/18-12:02:06.255 8103 Generated table #37@1: 38497 keys, 2210423 bytes
+2023/02/18-12:02:06.325 8103 Generated table #38@1: 51794 keys, 1264428 bytes
+2023/02/18-12:02:06.325 8103 Compacted 1@1 + 2@2 files => 3474851 bytes
+2023/02/18-12:02:06.366 8103 compacted to: files[ 0 0 2 0 0 0 0 ]
+2023/02/18-12:02:06.368 8103 Delete type=2 #36
+2023/02/18-12:02:06.368 8103 Delete type=2 #32
+2023/02/18-12:02:06.368 8103 Delete type=2 #33

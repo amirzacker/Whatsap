@@ -1,7 +1,7 @@
 const { Configuration, OpenAIApi } = require('openai');
 require('dotenv').config()
 const configuration = new Configuration({
-  apiKey: process.env.OPENAI_API,
+  apiKey: process.env.API_TOKEN,
 });
 const openai = new OpenAIApi(configuration);
 
@@ -24,7 +24,7 @@ async function ask(prompt) {
     model: "text-davinci-002",
     prompt,
     temperature: 0.7,
-    max_tokens: 256,
+    max_tokens: 500,
     top_p: 1,
     frequency_penalty: 0,
     presence_penalty: 0,
